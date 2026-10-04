@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Kolam | Prince Chowk, Dehradun",
+  "description": "Official booking portal for Hotel Kolam, Dehradun. Located near Prince Chowk and Railway Station with comfortable rooms, dining, high-speed Wi-Fi, and travel support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
